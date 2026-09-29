@@ -1,0 +1,8 @@
+numpy>=1.26
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.0
+pytest>=8.0
+
+# Optional, for real embeddings instead of the hash-based fallback:
+# sentence-transformers>=2.6
