@@ -4,6 +4,8 @@ A custom vector database for semantic search, built to showcase systems-level
 performance engineering: **Mojo/MAX** for the numeric core, **Python** for the
 API/orchestration layer, and **SQLite** for durable metadata + vector storage.
 
+Live Demo: https://high-performance-vector-database-semantic-search.streamlit.app/
+
 ## Why this stack
 
 | Layer | Tool | Job |
